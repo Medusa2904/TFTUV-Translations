@@ -4,511 +4,511 @@
 translate german ep006_lilly_talk_80c59c43:
 
     # "Lilly had retired to her quarters almost immediately after we set course for Almagest."
-    ""
+    "Lilly hatte sich fast sofort, nachdem wir Kurs auf Almagest genommen hatten, in ihr Quartier zurückgezogen."
 
 # game/episode006_conversations.rpy:59
 translate german ep006_lilly_talk_505c9ee8:
 
     # "I never got the chance to talk to her after we regained our memories and I longed to be near her again."
-    ""
+    "Ich hatte nie die Gelegenheit, mit ihr zu sprechen, nachdem wir unsere Erinnerungen wiedererlangt hatten, und ich sehnte mich danach, wieder in ihrer Nähe zu sein."
 
 # game/episode006_conversations.rpy:60
 translate german ep006_lilly_talk_33d60539:
 
     # "I knocked on her door and after a while she opened the door just slightly."
-    ""
+    "Ich klopfte an ihre Tür und nach einer Weile öffnete sie die Tür leicht."
 
 # game/episode006_conversations.rpy:62
 translate german ep006_lilly_talk_9bf4cec7:
 
     # l "Oh, it's you."
-    l ""
+    l "Oh, du bist es."
 
 # game/episode006_conversations.rpy:63
 translate german ep006_lilly_talk_8d9a290d:
 
     # "Not quite the welcome I was hoping for..."
-    ""
+    "Nicht ganz der Empfang, den ich mir erhofft hatte ..."
 
 # game/episode006_conversations.rpy:64
 translate german ep006_lilly_talk_3fc15ae0:
 
     # c "Are you okay?"
-    c ""
+    c "Geht es dir gut?"
 
 # game/episode006_conversations.rpy:65
 translate german ep006_lilly_talk_c54a2cf5:
 
     # l "Yes, I just fell asleep back there."
-    l ""
+    l "Ja, ich bin eben gerade eingeschlafen."
 
 # game/episode006_conversations.rpy:66
 translate german ep006_lilly_talk_720b290f:
 
     # c "I can imagine, probably the after-effects of the drugs they gave us."
-    c ""
+    c "Kann ich mir vorstellen, wahrscheinlich die Nachwirkungen der drogen die sie uns gegeben haben."
 
 # game/episode006_conversations.rpy:67
 translate german ep006_lilly_talk_294f22da:
 
     # l "Probably."
-    l ""
+    l "Wahrscheinlich."
 
 # game/episode006_conversations.rpy:68
 translate german ep006_lilly_talk_72ca6120:
 
     # c "Do you mind if I come in?"
-    c ""
+    c "Hast du was dagegen wenn ich rein komme?"
 
 # game/episode006_conversations.rpy:70
 translate german ep006_lilly_talk_4dc06892:
 
     # l "I'm really tired, [p_name_short]."
-    l ""
+    l "Ich bin echt müde, [p_name_short]."
 
 # game/episode006_conversations.rpy:71
 translate german ep006_lilly_talk_278090a3:
 
     # c "I know, but we really should talk about what happened back in that cell."
-    c ""
+    c "Ich weiß, aber wir sollten wirklich darüber reden, was in dieser Zelle passiert ist."
 
 # game/episode006_conversations.rpy:72
 translate german ep006_lilly_talk_2974d059:
 
     # l "What happened back in that cell?"
-    l ""
+    l "Was ist in der Zelle passiert?"
 
 # game/episode006_conversations.rpy:73
 translate german ep006_lilly_talk_ccc65adf:
 
     # c "You know...{w} us..."
-    c ""
+    c "Naja...{w} wir..."
 
 # game/episode006_conversations.rpy:74
 translate german ep006_lilly_talk_cbe608f7:
 
     # c "Don't you remember?"
-    c ""
+    c "Erinnerst du dich nicht?"
 
 # game/episode006_conversations.rpy:76
 translate german ep006_lilly_talk_7e8fc039:
 
     # l "No, I don't."
-    l ""
+    l "Nein, tuh ich nicht."
 
 # game/episode006_conversations.rpy:77
 translate german ep006_lilly_talk_933c72df:
 
     # c "But..."
-    c ""
+    c "Aber..."
 
 # game/episode006_conversations.rpy:78
 translate german ep006_lilly_talk_84df278e:
 
     # l "I really want to go to sleep now."
-    l ""
+    l "Ich will jetzt wirklich schlafen gehen."
 
 # game/episode006_conversations.rpy:80
 translate german ep006_lilly_talk_7a61c004:
 
     # "Before I could get another word in edgewise she'd already closed the door."
-    ""
+    "Bevor ich noch ein weiteres Wort sagen konnte, hatte sie bereits die Tür geschlossen."
 
 # game/episode006_conversations.rpy:82
 translate german ep006_lilly_talk_5fda5328:
 
     # "After being together with her for so long, I just wanted to know if she was okay."
-    ""
+    "Nachdem ich so lange mit ihr zusammen war, wollte ich nur wissen, ob es ihr gut ging."
 
 # game/episode006_conversations.rpy:83
 translate german ep006_lilly_talk_5d88433f:
 
     # "I knocked on her door and after a while she opened the door."
-    ""
+    "Ich klopfte an ihre Tür und nach einer Weile öffnete sie."
 
 # game/episode006_conversations.rpy:85
 translate german ep006_lilly_talk_0dde56ac:
 
     # l "Oh, hey [p_name_short]."
-    l ""
+    l "Oh, hey [p_name_short]."
 
 # game/episode006_conversations.rpy:86
 translate german ep006_lilly_talk_144ef471:
 
     # l "I just fell asleep back there."
-    l ""
+    l "Ich bin gerade eingeschlafen."
 
 # game/episode006_conversations.rpy:87
 translate german ep006_lilly_talk_2b91f690:
 
     # c "Probably an after-effect of the drugs they gave us."
-    c ""
+    c "Wahrscheinlich eine Nachwirkung der Medikamente, die sie uns gegeben haben."
 
 # game/episode006_conversations.rpy:88
 translate german ep006_lilly_talk_4b9e0353:
 
     # c "Are you alright?"
-    c ""
+    c "Geht es dir gut?"
 
 # game/episode006_conversations.rpy:90
 translate german ep006_lilly_talk_d37a2cb7:
 
     # l "I think so."
-    l ""
+    l "Ich denke schon."
 
 # game/episode006_conversations.rpy:92
 translate german ep006_lilly_talk_0c3e045f:
 
     # l "No dreams, so far."
-    l ""
+    l "Keine Träume, bis jetzt."
 
 # game/episode006_conversations.rpy:93
 translate german ep006_lilly_talk_d480f87a:
 
     # c "I'm glad to hear that."
-    c ""
+    c "Ich bin froh das zu hören."
 
 # game/episode006_conversations.rpy:94
 translate german ep006_lilly_talk_9fd85fd4:
 
     # c "You know where to find me, should that change."
-    c ""
+    c "Du weißt wo du mich finden kannst, sollte sich das ändern."
 
 # game/episode006_conversations.rpy:95
 translate german ep006_lilly_talk_9876f704:
 
     # l "I do, thanks [p_name_short]."
-    l ""
+    l "Weiß ich, danke [p_name_short]."
 
 # game/episode006_conversations.rpy:102
 translate german ep006_aven_talk_1e93475b:
 
     # c "Hey, how are you holding up?"
-    c ""
+    c "Hey, wie geht es dir?"
 
 # game/episode006_conversations.rpy:103
 translate german ep006_aven_talk_156a10ae:
 
     # av "Just barely."
-    av ""
+    av "Ganz ok"
 
 # game/episode006_conversations.rpy:104
 translate german ep006_aven_talk_ac800281:
 
     # av "What a mess."
-    av ""
+    av "Was ein Durcheinander."
 
 # game/episode006_conversations.rpy:105
 translate german ep006_aven_talk_be6000d9:
 
     # c "Yeah, this is not how I pictured things."
-    c ""
+    c "Ja, das ist nicht wie ich mir die Dinge vorgestellt habe."
 
 # game/episode006_conversations.rpy:107
 translate german ep006_aven_talk_01e5f10e:
 
     # av "Me neither, I just can't deal with all this at the moment, to be honest."
-    av ""
+    av "Geht mir genau so, ich kann mit dem ganzen nicht wirklich gut umgehen gerade wenn ich ehrlich bin."
 
 # game/episode006_conversations.rpy:108
 translate german ep006_aven_talk_2bffb07d:
 
     # av "We made a promise to have a talk after our escape and we really should..."
-    av ""
+    av "Wir haben uns versprochen das wir miteinander reden nach der FLucht und das sollten wir wirklich..."
 
 # game/episode006_conversations.rpy:109
 translate german ep006_aven_talk_59ce1471:
 
     # av "Just not now, [p_name_short], I hope you understand."
-    av ""
+    av "Nur nicht jetzt, [p_name_short], Ich hoffe du verstehst das."
 
 # game/episode006_conversations.rpy:113
 translate german ep006_aven_talk_29a4599a:
 
     # c "No, I don't."
-    c ""
+    c "Nein, tuh ich nicht."
 
 # game/episode006_conversations.rpy:114
 translate german ep006_aven_talk_4298a054:
 
     # c "We have to resolve this mess, right now."
-    c ""
+    c "Wir müssen dieses Chaos sofort lösen."
 
 # game/episode006_conversations.rpy:116
 translate german ep006_aven_talk_9868b26f:
 
     # av "No, we don't."
-    av ""
+    av "Nein, müssen wir nicht."
 
 # game/episode006_conversations.rpy:117
 translate german ep006_aven_talk_3ec23c7a:
 
     # av "Let's wait until we've both processed all of this, unless we might say something one of us is going to regret later."
-    av ""
+    av "Warten wir, bis wir beide das alles verarbeitet haben, sonst sagen wir vielleicht etwas, was einer von uns später bereuen wird."
 
 # game/episode006_conversations.rpy:119
 translate german ep006_aven_talk_22b5d7f4:
 
     # av "I'm sorry, [p_name_short]."
-    av ""
+    av "Tuht mir leid, [p_name_short]."
 
 # game/episode006_conversations.rpy:120
 translate german ep006_aven_talk_1334c24f:
 
     # c "Can you at least answer me this though, do you remember anything from while we were on the station?"
-    c ""
+    c "Kannst du mir wenigstens das hier beantworten, erinnerst du dich an irgendwas während wir auf der Station waren?"
 
 # game/episode006_conversations.rpy:121
 translate german ep006_aven_talk_4a10551b:
 
     # c "Before we regained our memories, I mean."
-    c ""
+    c "Bevor unsere Erinnerungen wieder kamen meine ich."
 
 # game/episode006_conversations.rpy:122
 translate german ep006_aven_talk_a384e4c0:
 
     # av "Yes, I can, vividly."
-    av ""
+    av "Ja, kann ich, klar und deutlich."
 
 # game/episode006_conversations.rpy:124
 translate german ep006_aven_talk_a30bcba3:
 
     # av "Why are you bringing this up?"
-    av ""
+    av "Wie kommst du darauf?"
 
 # game/episode006_conversations.rpy:125
 translate german ep006_aven_talk_361d55ac:
 
     # c "Lilly says she doesn't remember anything."
-    c ""
+    c "Lilly meinte sie kann sich an nichts erinnern."
 
 # game/episode006_conversations.rpy:126
 translate german ep006_aven_talk_354cbe27:
 
     # av "Maybe it works differently for everyone?"
-    av ""
+    av "Vielleicht ist es für jeden anders?"
 
 # game/episode006_conversations.rpy:127
 translate german ep006_aven_talk_13251290:
 
     # c "Maybe."
-    c ""
+    c "Vielleicht."
 
 # game/episode006_conversations.rpy:129
 translate german ep006_aven_talk_81e97d6d:
 
     # av "Or maybe she just doesn't want to talk about it."
-    av ""
+    av "Oder sie will einfach nicht darüber reden."
 
 # game/episode006_conversations.rpy:130
 translate german ep006_aven_talk_2c72b826:
 
     # c "That sounds familiar..."
-    c ""
+    c "Das kommt mir bekannt vor..."
 
 # game/episode006_conversations.rpy:132
 translate german ep006_aven_talk_3de72580:
 
     # av "Don't be so damn salty."
-    av ""
+    av "Sei nicht so verdammt genervt. "
 
 # game/episode006_conversations.rpy:135
 translate german ep006_aven_talk_d7269434:
 
     # c "I think I do."
-    c ""
+    c "Bin ich aber."
 
 # game/episode006_conversations.rpy:137
 translate german ep006_aven_talk_5e1580a8:
 
     # av "Let's wait until we've both processed this entire mind fuck and see where we stand, okay?"
-    av ""
+    av "Warten wir, bis wir beide diesen ganzen Mindfuck verarbeitet haben, und dann schauen wir, wo wir stehen, okay?"
 
 # game/episode006_conversations.rpy:138
 translate german ep006_aven_talk_88df38a7:
 
     # c "Agreed."
-    c ""
+    c "Einverstanden."
 
 # game/episode006_conversations.rpy:139
 translate german ep006_aven_talk_7b186832:
 
     # c "One thing that's been bothering me, can you remember anything from while we were on the station?"
-    c ""
+    c "Eine Sache hat mich gestört. Kannst du dich an irgendetwas erinnern, als wir auf der Station waren?"
 
 # game/episode006_conversations.rpy:140
 translate german ep006_aven_talk_4a10551b_1:
 
     # c "Before we regained our memories, I mean."
-    c ""
+    c "Bevor unsere Erinnerungen zurück kamen meine ich."
 
 # game/episode006_conversations.rpy:141
 translate german ep006_aven_talk_a384e4c0_1:
 
     # av "Yes, I can, vividly."
-    av ""
+    av "Ja, kann ich, klar und deutlich."
 
 # game/episode006_conversations.rpy:143
 translate german ep006_aven_talk_a30bcba3_1:
 
     # av "Why are you bringing this up?"
-    av ""
+    av "Wir kommst du darauf?"
 
 # game/episode006_conversations.rpy:144
 translate german ep006_aven_talk_361d55ac_1:
 
     # c "Lilly says she doesn't remember anything."
-    c ""
+    c "Lilly meinte sie kann sich nicht daran erinnern."
 
 # game/episode006_conversations.rpy:145
 translate german ep006_aven_talk_354cbe27_1:
 
     # av "Maybe it works differently for everyone?"
-    av ""
+    av "Vielleicht ist es bei jedem anders?"
 
 # game/episode006_conversations.rpy:146
 translate german ep006_aven_talk_13251290_1:
 
     # c "Maybe."
-    c ""
+    c "Vielleicht."
 
 # game/episode006_conversations.rpy:148
 translate german ep006_aven_talk_81e97d6d_1:
 
     # av "Or maybe she just doesn't want to talk about it."
-    av ""
+    av "Oder sie will einfach nicht darüber reden."
 
 # game/episode006_conversations.rpy:149
 translate german ep006_aven_talk_c8cf5b1d:
 
     # c "That thought has crossed my mind."
-    c ""
+    c "Den Gedanken hatte ich auch schon."
 
 # game/episode006_conversations.rpy:150
 translate german ep006_aven_talk_e1992d7a:
 
     # av "I'm sure she'll come around eventually."
-    av ""
+    av "Ich bin mir sicher sie irgendwann drüber reden."
 
 # game/episode006_conversations.rpy:151
 translate german ep006_aven_talk_257af806:
 
     # av "You do have a lot to talk about though and I think you really should once you're both ready."
-    av ""
+    av "Ihr habt einiges über das ihr reden solltet und ich denke das solltet ihr wirklich tun wenn ihr bereit seit."
 
 # game/episode006_conversations.rpy:153
 translate german ep006_aven_talk_940e6c24:
 
     # av "This whole trip has been one big mindfuck."
-    av ""
+    av "Dieser ganze Ausflug war ein riesiger Mindfuck."
 
 # game/episode006_conversations.rpy:154
 translate german ep006_aven_talk_61ed7c35:
 
     # c "You can say that again."
-    c ""
+    c "Das kannst du laut sagen."
 
 # game/episode006_conversations.rpy:155
 translate german ep006_aven_talk_2f30cf04:
 
     # av "I'm here if you need me."
-    av ""
+    av "Ich bin hier falls du mich brauchst."
 
 # game/episode006_conversations.rpy:156
 translate german ep006_aven_talk_5cd7eb66:
 
     # c "Thanks, I'll keep that in mind."
-    c ""
+    c "Danke, werde ich mir merken."
 
 # game/episode006_conversations.rpy:158
 translate german ep006_aven_talk_dce3ca41:
 
     # av "Good night, [p_name_short]."
-    av ""
+    av "Gute nacht, [p_name_short]."
 
 # game/episode006_conversations.rpy:159
 translate german ep006_aven_talk_0850efde:
 
     # c "Good night, Aven."
-    c ""
+    c "Gute nacht, Aven."
 
 # game/episode006_conversations.rpy:162
 translate german ep006_aven_talk_1e93475b_1:
 
     # c "Hey, how are you holding up?"
-    c ""
+    c "Hey, wie gehts es dir?"
 
 # game/episode006_conversations.rpy:163
 translate german ep006_aven_talk_156a10ae_1:
 
     # av "Just barely."
-    av ""
+    av "Geht so."
 
 # game/episode006_conversations.rpy:164
 translate german ep006_aven_talk_ac800281_1:
 
     # av "What a mess."
-    av ""
+    av "Was ein Chaos."
 
 # game/episode006_conversations.rpy:165
 translate german ep006_aven_talk_be6000d9_1:
 
     # c "Yeah, this is not how I pictured things."
-    c ""
+    c "Ja, so hab ich mir die Dinge nicht vorgestellt."
 
 # game/episode006_conversations.rpy:167
 translate german ep006_aven_talk_01e5f10e_1:
 
     # av "Me neither, I just can't deal with all this at the moment, to be honest."
-    av ""
+    av "Geht mir genau so, ich kann mit all dem nicht wirklich gut umgehen gerade, um ehrlich zu sein."
 
 # game/episode006_conversations.rpy:168
 translate german ep006_aven_talk_2bffb07d_1:
 
     # av "We made a promise to have a talk after our escape and we really should..."
-    av ""
+    av "Wir haben uns versprochen über das alles zu reden nach unserer FLucht und das sollten wir..."
 
 # game/episode006_conversations.rpy:169
 translate german ep006_aven_talk_59ce1471_1:
 
     # av "Just not now, [p_name_short], I hope you understand."
-    av ""
+    av "Nur nicht jetzt, [p_name_short], Ich hoffe du vertehst das."
 
 # game/episode006_conversations.rpy:173
 translate german ep006_aven_talk_29a4599a_1:
 
     # c "No, I don't."
-    c ""
+    c "Nein, tuhe ich nicht."
 
 # game/episode006_conversations.rpy:174
 translate german ep006_aven_talk_4298a054_1:
 
     # c "We have to resolve this mess, right now."
-    c ""
+    c "Wir müssen dieses Chaos jetzt sofort lösen."
 
 # game/episode006_conversations.rpy:176
 translate german ep006_aven_talk_9868b26f_1:
 
     # av "No, we don't."
-    av ""
+    av "Nein, müssen wir nicht."
 
 # game/episode006_conversations.rpy:177
 translate german ep006_aven_talk_3ec23c7a_1:
 
     # av "Let's wait until we've both processed all of this, unless we might say something one of us is going to regret later."
-    av ""
+    av "Warten wir, bis wir beide das alles verarbeitet haben, sonst sagen wir vielleicht etwas, was einer von uns später bereuen wird."
 
 # game/episode006_conversations.rpy:179
 translate german ep006_aven_talk_22b5d7f4_1:
 
     # av "I'm sorry, [p_name_short]."
-    av ""
+    av "Es tut mir leid, [p_name_short]."
 
 # game/episode006_conversations.rpy:182
 translate german ep006_aven_talk_d7269434_1:
 
     # c "I think I do."
-    c ""
+    c "Tuhe ich aber."
 
 # game/episode006_conversations.rpy:184
 translate german ep006_aven_talk_5e1580a8_1:
