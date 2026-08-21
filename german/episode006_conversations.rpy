@@ -514,331 +514,331 @@ translate german ep006_aven_talk_d7269434_1:
 translate german ep006_aven_talk_5e1580a8_1:
 
     # av "Let's wait until we've both processed this entire mind fuck and see where we stand, okay?"
-    av ""
+    av "Lass uns warten bis wir beide diesen Brain Fuck verarbeitet haben und dann schauen wir wo wir stehen, ok?"
 
 # game/episode006_conversations.rpy:185
 translate german ep006_aven_talk_88df38a7_1:
 
     # c "Agreed."
-    c ""
+    c "Ok."
 
 # game/episode006_conversations.rpy:187
 translate german ep006_aven_talk_dce3ca41_1:
 
     # av "Good night, [p_name_short]."
-    av ""
+    av "Gute Nacht, [p_name_short]."
 
 # game/episode006_conversations.rpy:188
 translate german ep006_aven_talk_0850efde_1:
 
     # c "Good night, Aven."
-    c ""
+    c "Gute Nacht, Aven."
 
 # game/episode006_conversations.rpy:191
 translate german ep006_aven_talk_1e93475b_2:
 
     # c "Hey, how are you holding up?"
-    c ""
+    c "Hey, wie gehts dir?"
 
 # game/episode006_conversations.rpy:192
 translate german ep006_aven_talk_1bbb321f:
 
     # av "I'm fine, thanks for asking."
-    av ""
+    av "Mir gehts gut, danke das du fragst."
 
 # game/episode006_conversations.rpy:193
 translate german ep006_aven_talk_db1c8842:
 
     # c "I'm just wondering, can you remember anything from while we were on the station?"
-    c ""
+    c "Mich würde interessieren ob du dich noch an das erinnern kannst was auf der Station passiert ist?"
 
 # game/episode006_conversations.rpy:194
 translate german ep006_aven_talk_4a10551b_2:
 
     # c "Before we regained our memories, I mean."
-    c ""
+    c "Before wir unsere Erinnerungen wieder hatten meine ich."
 
 # game/episode006_conversations.rpy:195
 translate german ep006_aven_talk_a384e4c0_2:
 
     # av "Yes, I can, vividly."
-    av ""
+    av "Ja, kann ich, Sehr deutlich."
 
 # game/episode006_conversations.rpy:197
 translate german ep006_aven_talk_a30bcba3_2:
 
     # av "Why are you bringing this up?"
-    av ""
+    av "Warum fragst du?"
 
 # game/episode006_conversations.rpy:198
 translate german ep006_aven_talk_361d55ac_2:
 
     # c "Lilly says she doesn't remember anything."
-    c ""
+    c "Lilly sagt das sie sich an nichts erinnern kann."
 
 # game/episode006_conversations.rpy:199
 translate german ep006_aven_talk_354cbe27_2:
 
     # av "Maybe it works differently for everyone?"
-    av ""
+    av "Vielleicht ist es für jeden anders?"
 
 # game/episode006_conversations.rpy:200
 translate german ep006_aven_talk_13251290_2:
 
     # c "Maybe."
-    c ""
+    c "Vielleicht."
 
 # game/episode006_conversations.rpy:201
 translate german ep006_aven_talk_81e97d6d_2:
 
     # av "Or maybe she just doesn't want to talk about it."
-    av ""
+    av "Oder sie will einfach nicht darüber reden."
 
 # game/episode006_conversations.rpy:202
 translate german ep006_aven_talk_c8cf5b1d_1:
 
     # c "That thought has crossed my mind."
-    c ""
+    c "Den Gedanken hatte ich auch schon."
 
 # game/episode006_conversations.rpy:204
 translate german ep006_aven_talk_e1992d7a_1:
 
     # av "I'm sure she'll come around eventually."
-    av ""
+    av "Ich bin mir sicher sie wird irgendwann mit dir reden."
 
 # game/episode006_conversations.rpy:205
 translate german ep006_aven_talk_257af806_1:
 
     # av "You do have a lot to talk about though and I think you really should once you're both ready."
-    av ""
+    av "Ihr habt einiges über das ihr reden solltet und ich denke das ihr das auch machen solltet sobald ihr beide bereit seit."
 
 # game/episode006_conversations.rpy:207
 translate german ep006_aven_talk_940e6c24_1:
 
     # av "This whole trip has been one big mindfuck."
-    av ""
+    av "Dieser ganze ausflug war ein riesiger Brain Fuck."
 
 # game/episode006_conversations.rpy:208
 translate german ep006_aven_talk_61ed7c35_1:
 
     # c "You can say that again."
-    c ""
+    c "Das kannst du laut sagen."
 
 # game/episode006_conversations.rpy:210
 translate german ep006_aven_talk_2f30cf04_1:
 
     # av "I'm here if you need me."
-    av ""
+    av "Ich bin hier wenn du mich brauchst."
 
 # game/episode006_conversations.rpy:211
 translate german ep006_aven_talk_5cd7eb66_1:
 
     # c "Thanks, I'll keep that in mind."
-    c ""
+    c "Danke, ich behalte es im Hinterkopf."
 
 # game/episode006_conversations.rpy:217
 translate german ep006_raene_talk_7bb1d557:
 
     # c "I was wondering if we could talk."
-    c ""
+    c "Ich wollte fragen ob wir kurz miteinander reden könnten?"
 
 # game/episode006_conversations.rpy:218
 translate german ep006_raene_talk_94584b6c:
 
     # ra "If it's about what happened back on the research station, don't worry, I'm fine now."
-    ra ""
+    ra "Wenn es um das geht was auf der Forschungsstation passiert ist, mach dir keine sorgen, mir gehts gut."
 
 # game/episode006_conversations.rpy:219
 translate german ep006_raene_talk_e7fcde5d:
 
     # c "I'm sure you are, but I still like to know what happened to you back there."
-    c ""
+    c "Das glaube ich dir, aber ich würde trotzdem gerne wissen, was dort mit dir passiert ist."
 
 # game/episode006_conversations.rpy:221
 translate german ep006_raene_talk_d52af839:
 
     # ra "Why?"
-    ra ""
+    ra "Warum?"
 
 # game/episode006_conversations.rpy:224
 translate german ep006_raene_talk_3b38004d:
 
     # c "Because I'd hate for you to feel so distraught."
-    c ""
+    c "Weil ich nicht möchte, dass du dich so aufgewühlt fühlst."
 
 # game/episode006_conversations.rpy:225
 translate german ep006_raene_talk_0a55e903:
 
     # c "Something on the station triggered some heavy emotions in you and I don't want you to think you have to go through all that on your own."
-    c ""
+    c "Irgendetwas auf der Station hat sehr starke Gefühle in dir ausgelöst und ich möchte nicht, dass du denkst, du müsstest das alles alleine durchstehen."
 
 # game/episode006_conversations.rpy:229
 translate german ep006_raene_talk_1c8447a2:
 
     # ra "You've said so before and I believe you."
-    ra ""
+    ra "Das hast du schon einmal gesagt und ich glaube dir."
 
 # game/episode006_conversations.rpy:230
 translate german ep006_raene_talk_3db0fda6:
 
     # ra "I...{w} I don't know where to begin, really."
-    ra ""
+    ra "Ich...{w} Ich weiß ehrlich gesagt nicht, wo ich anfangen soll."
 
 # game/episode006_conversations.rpy:231
 translate german ep006_raene_talk_60f07ac9:
 
     # c "Why not at the beginning?"
-    c ""
+    c "Warum nicht ganz am Anfang?"
 
 # game/episode006_conversations.rpy:233
 translate german ep006_raene_talk_0b08417b:
 
     # ra "That might be best."
-    ra ""
+    ra "Das wäre wahrscheinlich das Beste."
 
 # game/episode006_conversations.rpy:234
 translate german ep006_raene_talk_e0f915e4:
 
     # ra "I carry my mother's name, she was called Rae."
-    ra ""
+    ra "Ich trage den Namen meiner Mutter. Sie hieß Rae."
 
 # game/episode006_conversations.rpy:236
 translate german ep006_raene_talk_5a524f25:
 
     # ra "It's a name I wear with pride."
-    ra ""
+    ra "Es ist ein Name, den ich mit Stolz trage."
 
 # game/episode006_conversations.rpy:238
 translate german ep006_raene_talk_a19d90bc:
 
     # ra "On our world women are mostly regarded as a necessary evil, because of their ability to bear children."
-    ra ""
+    ra "Auf unserer Welt werden Frauen größtenteils als notwendiges Übel angesehen, weil sie Kinder gebären können."
 
 # game/episode006_conversations.rpy:239
 translate german ep006_raene_talk_114fca97:
 
     # ra "Other than that they live their lives in seclusion and don't participate in daily life."
-    ra ""
+    ra "Abgesehen davon leben sie abgeschieden und nehmen nicht am alltäglichen Leben teil."
 
 # game/episode006_conversations.rpy:240
 translate german ep006_raene_talk_3f665a13:
 
     # ra "They serve at the pleasure of the men who rule Verdigris, my father at the head of it all. "
-    ra ""
+    ra "Sie stehen ganz im Dienste der Männer, die Verdigris regieren, allen voran mein Vater."
 
 # game/episode006_conversations.rpy:241
 translate german ep006_raene_talk_34122355:
 
     # ra "I had a different name when I was born, one that my father still uses when he addresses me."
-    ra ""
+    ra "Bei meiner Geburt bekam ich einen anderen Namen, den mein Vater noch immer benutzt, wenn er mit mir redet."
 
 # game/episode006_conversations.rpy:242
 translate german ep006_raene_talk_b0588090:
 
     # ra "He was so happy my mother bore him a son, because an heir would secure our bloodline."
-    ra ""
+    ra "Er war so glücklich darüber, dass meine Mutter ihm einen Sohn geboren hatte, denn ein Erbe würde den Fortbestand unserer Blutlinie sichern."
 
 # game/episode006_conversations.rpy:244
 translate german ep006_raene_talk_08acbde8:
 
     # ra "I've been a disappointment to him ever since I could barely speak."
-    ra ""
+    ra "Ich bin für ihn eine Enttäuschung, seit ich kaum sprechen konnte."
 
 # game/episode006_conversations.rpy:245
 translate german ep006_raene_talk_b0ca5e2e:
 
     # ra "I've never been the son he wanted, needed even, deep down I've always been Raene."
-    ra ""
+    ra "Ich war nie der Sohn, den er wollte, den er sogar brauchte. Tief in meinem Inneren war ich schon immer Raene."
 
 # game/episode006_conversations.rpy:250
 translate german ep006_raene_talk_f7645069:
 
     # c "I'm really glad you decided to tell me."
-    c ""
+    c "Ich bin wirklich froh, dass du dich entschieden hast, mir davon zu erzählen."
 
 # game/episode006_conversations.rpy:251
 translate german ep006_raene_talk_b9bd751b:
 
     # c "A lot of things are starting to click now."
-    c ""
+    c "Jetzt ergibt vieles langsam einen Sinn."
 
 # game/episode006_conversations.rpy:253
 translate german ep006_raene_talk_0d98f346:
 
     # c "Like your behavior in the locker room back on the research station, having to wear those men's clothes."
-    c ""
+    c "Zum Beispiel dein Verhalten in der Umkleide auf der Forschungsstation, als du diese Männerkleidung tragen musstest."
 
 # game/episode006_conversations.rpy:254
 translate german ep006_raene_talk_4b45f7c9:
 
     # ra "I know it seems so futile considering what we were up against back there."
-    ra ""
+    ra "Ich weiß, angesichts dessen, womit wir es dort zu tun hatten, erscheint das ziemlich belanglos."
 
 # game/episode006_conversations.rpy:256
 translate german ep006_raene_talk_700cc746:
 
     # ra "But it all came flooding in all of a sudden."
-    ra ""
+    ra "Aber plötzlich ist einfach alles auf einmal über mich hereingebrochen."
 
 # game/episode006_conversations.rpy:261
 translate german ep006_ra_conversation_bbeadae7:
 
     # c "Your relationship with Ziv is no coincidence, I presume?"
-    c ""
+    c "Deine Beziehung zu Ziv ist also kein Zufall, nehme ich an?"
 
 # game/episode006_conversations.rpy:263
 translate german ep006_ra_conversation_260b614d:
 
     # ra "No, I managed to reach out to her people while a delegation visited Verdigris."
-    ra ""
+    ra "Nein, ich konnte Kontakt zu ihrem Volk aufnehmen, als eine Delegation Verdigris besuchte."
 
 # game/episode006_conversations.rpy:264
 translate german ep006_ra_conversation_878a6986:
 
     # ra "The non-binary nature of the Rhenkoy is well-known throughout the galaxy."
-    ra ""
+    ra "Dass die Rhenkoy nichtbinär sind, ist in der ganzen Galaxie weithin bekannt."
 
 # game/episode006_conversations.rpy:265
 translate german ep006_ra_conversation_858ea150:
 
     # c "So I've heard."
-    c ""
+    c "Das habe ich auch gehört."
 
 # game/episode006_conversations.rpy:266
 translate german ep006_ra_conversation_e121f9de:
 
     # c "Considering what I've heard about your planet those meetings with the Rhenkoy delegation must have been rather chilly?"
-    c ""
+    c "Nach allem, was ich über deinen Planeten gehört habe, müssen die Treffen mit der Rhenkoy-Delegation ziemlich frostig gewesen sein?"
 
 # game/episode006_conversations.rpy:268
 translate german ep006_ra_conversation_e1ca33f2:
 
     # ra "I'm sure of it, but The Mysteries were more or less forced to deal with them as a courtesy to other political factions."
-    ra ""
+    ra "Davon gehe ich aus, aber die Mysterien waren mehr oder weniger gezwungen, sich aus Rücksicht auf andere politische Fraktionen mit ihnen abzugeben."
 
 # game/episode006_conversations.rpy:269
 translate german ep006_ra_conversation_9fc8d6bc:
 
     # ra "Nothing ever came of the meeting, of course."
-    ra ""
+    ra "Natürlich ist aus dem Treffen nie etwas geworden."
 
 # game/episode006_conversations.rpy:270
 translate german ep006_ra_conversation_49ae367a:
 
     # c "The Mysteries?"
-    c ""
+    c "Die Mysterien?"
 
 # game/episode006_conversations.rpy:272
 translate german ep006_ra_conversation_71480290:
 
     # ra "Yes, the ruling council of wise men on my planet, my father is their leader."
-    ra ""
+    ra "Ja, der herrschende Rat der weisen Männer auf meinem Planeten. Mein Vater ist ihr Anführer."
 
 # game/episode006_conversations.rpy:273
 translate german ep006_ra_conversation_f5f7c27d:
 
     # c "Right."
-    c ""
+    c "Richtig."
 
 # game/episode006_conversations.rpy:274
 translate german ep006_ra_conversation_eb9898d8:
